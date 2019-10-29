@@ -1,0 +1,105 @@
+$date
+	Sun Oct  6 16:18:56 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module trigger $end
+$var wire 1 ! qp $end
+$upscope $end
+$scope module trigger $end
+$var wire 1 " clock $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0"
+x!
+$end
+#12
+1!
+1"
+#15
+0!
+#18
+1!
+#21
+0!
+#24
+1!
+0"
+#27
+0!
+#30
+1!
+#33
+0!
+#36
+1!
+1"
+#39
+0!
+#42
+1!
+#45
+0!
+#48
+1!
+0"
+#51
+0!
+#54
+1!
+#57
+0!
+#60
+1!
+1"
+#63
+0!
+#66
+1!
+#69
+0!
+#72
+1!
+0"
+#75
+0!
+#78
+1!
+#81
+0!
+#84
+1!
+1"
+#87
+0!
+#90
+1!
+#93
+0!
+#96
+1!
+0"
+#99
+0!
+#102
+1!
+#105
+0!
+#108
+1!
+1"
+#111
+0!
+#114
+1!
+#117
+0!
+#120
+1!
+0"
