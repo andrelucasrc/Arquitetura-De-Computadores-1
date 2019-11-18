@@ -1,0 +1,18 @@
+;Este programa executa a tabela verdade do xor verificar saida
+
+Start:	load data0
+	xor data0
+	write
+	load data0
+	xor data1
+	write
+	load data1
+	xor data0
+	write
+	load data1
+	xor data1
+	write
+	stop
+	
+data0: 	.data 2 0	;start with 1
+data1:	.data 2 1	;start with 1

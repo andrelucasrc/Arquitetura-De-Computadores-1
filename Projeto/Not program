@@ -1,0 +1,16 @@
+;Este programa executa a tabela verdade do not 
+;verificar saida
+
+Start:	load data0	;valor inutil
+	not data0
+	add data2	;para apresentar o valor real	
+	write
+	load data0	;valor inutil
+	not data1	
+	add data2	;para apresentar o valor real
+	write
+	stop
+	
+data0: 	.data 2 0	;start with 0
+data1:	.data 2 1	;start with 1
+data2:	.data 2 2	;start with 2

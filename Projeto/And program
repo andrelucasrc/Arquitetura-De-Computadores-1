@@ -1,0 +1,18 @@
+;Este programa executa a tabela verdade do and verificar saida
+
+Start:	load data0
+	and data0
+	write
+	load data0
+	and data1
+	write
+	load data1
+	and data0
+	write
+	load data1
+	and data1
+	write
+	stop
+	
+data0: 	.data 2 0	;start with 1
+data1:	.data 2 1	;start with 1
